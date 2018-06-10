@@ -4071,7 +4071,7 @@
                 "speech": "\"I'm rather attached to the things Ive found in my travels....\"",
                 "subSpeech": "Only quest reset",
                 "textType": 0,
-                "starring": 0,
+                "starring": 1,
                 "cameraMode": 0,
                 "dialogueType": 0,
                 "expressionIndex": 0,
