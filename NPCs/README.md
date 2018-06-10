@@ -1,11 +1,13 @@
-The primary difference between NPC orcs is their usage in game.
+# The primary difference between NPC orcs is their usage in game. 
 
-Kink based orcs are primarily for orcs whos sole purpose is the play out a scene
+### Make sure your version of the game meets or exceeds the version listed in the BAB file otherwise the NPC may not function properly.
 
-Story based orcs are for orcs who will have more story driven elements to them
+ **Kink based** orcs are primarily for orcs whos sole purpose is the play out a scene
 
-Utility and Mixed usage orcs are for orcs who dont fit neatly into the other categories and may offer quuality of life improvements
+ **Story based** orcs are for orcs who will have more story driven elements to them
+
+ **Utility and Mixed usage** orcs are for orcs who dont fit neatly into the other categories and may offer quuality of life improvements
 
 
 
-PLEASE TRY TO NOTE THE VERSION NUMBER THE NPC WAS CREATED UNDER IN THE DESCRIPTION
+**PLEASE MAKE SURE TO FILL IN THE AUTHOR FIELD AND DESCRIPTION SO PEOPLE KNOW WHAT YOUR NPC DOES**
