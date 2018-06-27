@@ -9,6 +9,6 @@ Storage of Orcs and NPCs for Bonfire game currently in development by Hogswild. 
 **Tattoos** are various mapped images other users have created that can be added to orcs.
 
 # How to download from this repository
-1. Find the orc or NPC you wish to download, do not drill down to their specific file. (aka it is not showing code for the specific orc)
-2. Right click the file link in your browser and select "Save Link as"
+1. Find the orc or NPC you wish to download, so that it either displays the code for that orc (and a Raw button at the top of it) or a Download button at the top. 
+2. If theres a download button click that. If it displays Raw instead, right click the button in your browser and select "Save Link as"
 3. If the ending of the file isnt .orc or .bab (or .png in the case of tattoos) this isnt the file you are looking for.
