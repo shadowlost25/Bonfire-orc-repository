@@ -1,6 +1,6 @@
 {
-    "author": "Techimp",
-    "description": "Just your friendly neighborhood fourth wall breaking orc, with nifty ingame effects V0.192",
+    "author": "Techimp aka Shadowlost25",
+    "description": "Just your friendly neighborhood fourth wall breaking orc, with nifty ingame effects V0.20.1",
     "character": {
         "v": "0.18.0",
         "hornStyle": 0,
@@ -364,6 +364,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -383,6 +384,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -402,6 +404,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -421,6 +424,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -456,6 +460,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -475,6 +480,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -494,6 +500,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -513,6 +520,7 @@
                 "startFromThis": true,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -548,6 +556,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -583,6 +592,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -602,6 +612,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -621,6 +632,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -656,6 +668,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     16
                 ],
@@ -693,6 +706,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -712,6 +726,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     34
                 ],
@@ -733,6 +748,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -752,6 +768,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -803,6 +820,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -854,6 +872,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -905,6 +924,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -924,6 +944,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -943,6 +964,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -994,6 +1016,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1029,6 +1052,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1064,6 +1088,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1083,6 +1108,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1118,6 +1144,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1153,6 +1180,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1172,6 +1200,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1191,6 +1220,7 @@
                 "startFromThis": true,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1210,6 +1240,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1229,6 +1260,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1248,6 +1280,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1267,6 +1300,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -1288,6 +1322,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1307,6 +1342,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -1328,6 +1364,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     16
                 ],
@@ -1349,6 +1386,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1368,6 +1406,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1387,6 +1426,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1406,6 +1446,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     34
                 ],
@@ -1427,6 +1468,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1462,6 +1504,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1481,6 +1524,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -1500,6 +1544,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -1537,6 +1582,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     42
                 ],
@@ -1574,6 +1620,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     42
                 ],
@@ -1595,6 +1642,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -1626,12 +1674,13 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
-                        "string1": "Goblinize_BigOrc",
+                        "string1": "Goblinize_BigOrc_Linear",
                         "string2": "",
                         "string3": ""
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     43
                 ],
@@ -1663,12 +1712,13 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
-                        "string1": "Goblinize_BigBaraHuman",
+                        "string1": "Goblinize_BigBaraHuman_Linear",
                         "string2": "",
                         "string3": ""
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     43
                 ],
@@ -1706,6 +1756,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     43
                 ],
@@ -1743,6 +1794,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     43
                 ],
@@ -1752,49 +1804,12 @@
                 "grayed": false
             },
             {
-                "speech": "Atem chants \"\r\rEʻai a ulu a momona\" as your gut swells...",
-                "subSpeech": "Fat",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 43,
-                "dIndex": 59,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomBuff",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 5,
-                        "float1": 5.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "BodyFatIncrease",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [
-                    43
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"When my magic becomes more powerful I can try and target specific body parts. Ask me again in the future.\"",
+                "speech": "\"Seems like my magic got a lil boost of late...now....lets see...\"",
                 "subSpeech": "Specific",
                 "textType": 0,
                 "starring": 0,
                 "cameraMode": 0,
-                "dialogueType": 0,
+                "dialogueType": 1,
                 "expressionIndex": 0,
                 "parentIndex": 43,
                 "dIndex": 60,
@@ -1804,7 +1819,7 @@
                         "functionName": "Expression",
                         "hardcodedFunction": 0,
                         "sendCallbackTo": 8,
-                        "int1": 5,
+                        "int1": 1,
                         "int2": 0,
                         "int3": 0,
                         "float1": 10.0,
@@ -1817,9 +1832,8 @@
                     }
                 ],
                 "endActions": [],
-                "goToIndex": [
-                    43
-                ],
+                "conditions": [],
+                "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
                 "keepAnimation": false,
@@ -1838,6 +1852,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -1890,6 +1905,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     44
                 ],
@@ -1942,6 +1958,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     44
                 ],
@@ -1963,6 +1980,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -2013,6 +2031,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     44
                 ],
@@ -2034,6 +2053,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -2053,6 +2073,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -2106,6 +2127,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -2135,12 +2157,13 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
-                        "string1": "Goblinize_BigOrc",
+                        "string1": "Goblinize_BigOrc_Linear",
                         "string2": "",
                         "string3": ""
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     31
                 ],
@@ -2172,12 +2195,13 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
-                        "string1": "Goblinize_BigBaraHuman",
+                        "string1": "Goblinize_BigBaraHuman_Linear",
                         "string2": "",
                         "string3": ""
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     31
                 ],
@@ -2215,6 +2239,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     31
                 ],
@@ -2252,8 +2277,611 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     31
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I have a different question...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 34,
+                "dIndex": 75,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    29
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Risk is my middle name!\"",
+                "subSpeech": "Continue?",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 66,
+                "dIndex": 76,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Hmm, maybe addling my brain while in a vision quest isnt the wisest....\"",
+                "subSpeech": "On second though...",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 66,
+                "dIndex": 77,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    44
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Lets try a blank slate...\"",
+                "subSpeech": "Forget everything!",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 76,
+                "dIndex": 78,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "dory",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [
+                    44
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Ive always wondered if it deja vu was a thing....\"",
+                "subSpeech": "Know all",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 76,
+                "dIndex": 79,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "goel",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [
+                    44
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Worldly possessions arent all that...\"",
+                "subSpeech": "Lose everything",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 76,
+                "dIndex": 80,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "hobo",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [
+                    44
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Lets try and get things normal again...\"",
+                "subSpeech": "Unfuse",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 76,
+                "dIndex": 81,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "unfuse",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [
+                    44
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Lets me see what specific magics I can wield....\"",
+                "subSpeech": "Specific",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 31,
+                "dIndex": 82,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I suppose I could stretch my powers a lil further...\"",
+                "subSpeech": "Special",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 31,
+                "dIndex": 83,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "*Atem chants louder* \"Ka'ōpū o ka buddha nui\"",
+                "subSpeech": "Again",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 84,
+                "dIndex": 85,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 30,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "BodyFatIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    84
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Youre probably right...\"",
+                "subSpeech": "Enough",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 84,
+                "dIndex": 86,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    31
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Yes...a slow curse will do just nicely...\"",
+                "subSpeech": "Curse",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 83,
+                "dIndex": 87,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "target Atem",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "curse",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "targetclear",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    83
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I shall make my body pure of taint!\"",
+                "subSpeech": "Purify",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 83,
+                "dIndex": 88,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "target Atem",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "purify",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "targetclear",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    83
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Power from the ancestors...\"",
+                "subSpeech": "Iguapify",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 83,
+                "dIndex": 89,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "target Atem",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "iguapify",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "targetclear",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    83
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Yea I should avoid channelling that power too much...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 83,
+                "dIndex": 90,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "targetclear",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    31
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Yea...probably for the best...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 39,
+                "dIndex": 91,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    34
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Truth be told Im still learning the area myself...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 40,
+                "dIndex": 92,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    34
                 ],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -2269,7 +2897,7 @@
                 "dialogueType": 0,
                 "expressionIndex": 0,
                 "parentIndex": 31,
-                "dIndex": 74,
+                "dIndex": 93,
                 "startFromThis": false,
                 "startActions": [
                     {
@@ -2410,647 +3038,7 @@
                         "string3": ""
                     }
                 ],
-                "goToIndex": [
-                    31
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"I have a different question...\"",
-                "subSpeech": "Back",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 34,
-                "dIndex": 75,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [
-                    29
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Risk is my middle name!\"",
-                "subSpeech": "Continue?",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 1,
-                "expressionIndex": 0,
-                "parentIndex": 66,
-                "dIndex": 76,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Hmm, maybe addling my brain while in a vision quest isnt the wisest....\"",
-                "subSpeech": "On second though...",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 66,
-                "dIndex": 77,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [
-                    44
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Lets try a blank slate...\"",
-                "subSpeech": "Forget everything!",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 76,
-                "dIndex": 78,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "dory",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "goToIndex": [
-                    44
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Ive always wondered if it deja vu was a thing....\"",
-                "subSpeech": "Know all",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 76,
-                "dIndex": 79,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "goel",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "goToIndex": [
-                    44
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Worldly possessions arent all that...\"",
-                "subSpeech": "Lose everything",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 76,
-                "dIndex": 80,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "hobo",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "goToIndex": [
-                    44
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Lets try and get things normal again...\"",
-                "subSpeech": "Unfuse",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 76,
-                "dIndex": 81,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "unfuse",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "goToIndex": [
-                    44
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Lets me see what specific magics I can wield....\"",
-                "subSpeech": "Specific",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 1,
-                "expressionIndex": 0,
-                "parentIndex": 31,
-                "dIndex": 82,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"I suppose I could stretch my powers a lil further...\"",
-                "subSpeech": "Special",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 1,
-                "expressionIndex": 0,
-                "parentIndex": 31,
-                "dIndex": 83,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "*Chanting* \"Ka'ōpū o ka buddha nui\"",
-                "subSpeech": "Fat",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 1,
-                "expressionIndex": 0,
-                "parentIndex": 82,
-                "dIndex": 84,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomBuff",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 20,
-                        "float1": 5.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "BodyFatIncrease",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "*Atem chants louder* \"Ka'ōpū o ka buddha nui\"",
-                "subSpeech": "Again",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 84,
-                "dIndex": 85,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomBuff",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 30,
-                        "float1": 5.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "BodyFatIncrease",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [
-                    84
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Youre probably right...\"",
-                "subSpeech": "Enough",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 84,
-                "dIndex": 86,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [
-                    31
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Yes...a slow curse will do just nicely...\"",
-                "subSpeech": "Curse",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 83,
-                "dIndex": 87,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "target Atem",
-                        "string2": "",
-                        "string3": ""
-                    },
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "curse",
-                        "string2": "",
-                        "string3": ""
-                    },
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "targetclear",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [
-                    83
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"I shall make my body pure of taint!\"",
-                "subSpeech": "Purify",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 83,
-                "dIndex": 88,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "target Atem",
-                        "string2": "",
-                        "string3": ""
-                    },
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "purify",
-                        "string2": "",
-                        "string3": ""
-                    },
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "targetclear",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [
-                    83
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Power from the ancestors...\"",
-                "subSpeech": "Iguapify",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 83,
-                "dIndex": 89,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "target Atem",
-                        "string2": "",
-                        "string3": ""
-                    },
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "iguapify",
-                        "string2": "",
-                        "string3": ""
-                    },
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "targetclear",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [
-                    83
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Yea I should avoid channelling that power too much...\"",
-                "subSpeech": "Back",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 83,
-                "dIndex": 90,
-                "startFromThis": false,
-                "startActions": [
-                    {
-                        "functionName": "CustomCall",
-                        "hardcodedFunction": 0,
-                        "sendCallbackTo": 8,
-                        "int1": 0,
-                        "int2": 0,
-                        "int3": 0,
-                        "float1": 0.0,
-                        "float2": 0.0,
-                        "float3": 0.0,
-                        "float4": 0.0,
-                        "string1": "targetclear",
-                        "string2": "",
-                        "string3": ""
-                    }
-                ],
-                "endActions": [],
-                "goToIndex": [
-                    31
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Yea...probably for the best...\"",
-                "subSpeech": "Back",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 39,
-                "dIndex": 91,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [
-                    34
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Truth be told Im still learning the area myself...\"",
-                "subSpeech": "Back",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 40,
-                "dIndex": 92,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [
-                    34
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Lets give my magic a rest shall we?\"",
-                "subSpeech": "Back",
-                "textType": 0,
-                "starring": 0,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 31,
-                "dIndex": 93,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -3088,6 +3076,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3168,6 +3157,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     94
                 ],
@@ -3280,6 +3270,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     94
                 ],
@@ -3301,6 +3292,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3320,6 +3312,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     94
                 ],
@@ -3341,6 +3334,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -3378,28 +3372,8 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Actually I wanted to ask something else...\"",
-                "subSpeech": "Back",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 82,
-                "dIndex": 101,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
-                "goToIndex": [
-                    31
-                ],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
                 "keepAnimation": false,
@@ -3409,7 +3383,7 @@
                 "speech": "\"Maybe I should rethink this...\"",
                 "subSpeech": "Back",
                 "textType": 0,
-                "starring": 0,
+                "starring": 1,
                 "cameraMode": 0,
                 "dialogueType": 0,
                 "expressionIndex": 0,
@@ -3418,6 +3392,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     44
                 ],
@@ -3455,6 +3430,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3474,6 +3450,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3524,6 +3501,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3574,6 +3552,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3624,6 +3603,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3674,6 +3654,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3693,6 +3674,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     94
                 ],
@@ -3714,6 +3696,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     94
                 ],
@@ -3735,6 +3718,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3754,6 +3738,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3773,6 +3758,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3808,6 +3794,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3827,6 +3814,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3877,6 +3865,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3896,6 +3885,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     32
                 ],
@@ -3917,6 +3907,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     117
                 ],
@@ -3954,6 +3945,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3973,6 +3965,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -3992,6 +3985,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4011,6 +4005,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4061,6 +4056,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4080,6 +4076,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4099,6 +4096,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     124
                 ],
@@ -4120,6 +4118,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     32
                 ],
@@ -4157,6 +4156,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4192,6 +4192,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4211,6 +4212,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4230,6 +4232,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4249,6 +4252,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     29
                 ],
@@ -4301,6 +4305,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4351,6 +4356,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4386,6 +4392,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4421,6 +4428,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4440,6 +4448,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     129
                 ],
@@ -4449,39 +4458,19 @@
                 "grayed": false
             },
             {
-                "speech": "\"Kinda content right now...not looking to swap with ya...Sorry Atem...\"",
-                "subSpeech": "Back",
+                "speech": "\"Yea Im game for a change in perspective...\"",
+                "subSpeech": "Height swap",
                 "textType": 0,
                 "starring": 1,
                 "cameraMode": 0,
-                "dialogueType": 0,
+                "dialogueType": 1,
                 "expressionIndex": 0,
                 "parentIndex": 131,
                 "dIndex": 141,
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
-                "goToIndex": [
-                    129
-                ],
-                "retriggerAnimation": false,
-                "noUserSkip": false,
-                "keepAnimation": false,
-                "grayed": false
-            },
-            {
-                "speech": "\"Wait...teleportation? You can do that?\"",
-                "subSpeech": "Teleport",
-                "textType": 0,
-                "starring": 1,
-                "cameraMode": 0,
-                "dialogueType": 0,
-                "expressionIndex": 0,
-                "parentIndex": 129,
-                "dIndex": 142,
-                "startFromThis": false,
-                "startActions": [],
-                "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4517,6 +4506,7 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     32
                 ],
@@ -4538,6 +4528,7 @@
                 "startFromThis": false,
                 "startActions": [],
                 "endActions": [],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4589,6 +4580,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4640,6 +4632,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4691,6 +4684,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4742,6 +4736,7 @@
                         "string3": ""
                     }
                 ],
+                "conditions": [],
                 "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
@@ -4777,6 +4772,1985 @@
                     }
                 ],
                 "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    129
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I dunno if Im the right level of beefy...\"",
+                "subSpeech": "Muscle",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 60,
+                "dIndex": 150,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Ive always wondered about seeing the world from a new perspective...\"",
+                "subSpeech": "Height",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 60,
+                "dIndex": 151,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Know anything for cock modification?\"",
+                "subSpeech": "Cock",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 60,
+                "dIndex": 152,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I have been wondering about a more 'rounded' look...\"",
+                "subSpeech": "Fat",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 60,
+                "dIndex": 153,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I mean its technically possible...\" (NYI)",
+                "subSpeech": "Hair?",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 60,
+                "dIndex": 154,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "Atem chants \"Ka nui nui\"",
+                "subSpeech": "More",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 150,
+                "dIndex": 155,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "MuscleIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    150
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem remains silent as you shrink...",
+                "subSpeech": "Less",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 150,
+                "dIndex": 156,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "MuscleDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    150
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Hmm....I thats about right for now...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 150,
+                "dIndex": 157,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    60
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem gulps...",
+                "subSpeech": "More",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 151,
+                "dIndex": 158,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "HeightIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    151
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atems smile grows wider...",
+                "subSpeech": "Less",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 151,
+                "dIndex": 159,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "HeightDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    151
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I think I have a better grasp on perspective...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 151,
+                "dIndex": 160,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    60
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Yea, quite a bit actually...\"",
+                "subSpeech": "",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 152,
+                "dIndex": 161,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Lets talk about my overall size then...\"",
+                "subSpeech": "Length/Girth",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 161,
+                "dIndex": 162,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "Expression",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 1,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 8.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I cant offer much but I can make you more of a grow-er or show-er....\"",
+                "subSpeech": "Cock Style",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 161,
+                "dIndex": 163,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "Expression",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 2,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 8.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Who doesnt want to talk about the family jewels...\"",
+                "subSpeech": "Balls",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 161,
+                "dIndex": 164,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "Expression",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 1,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 8.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "\"I think Im happy with my size at the moment...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 161,
+                "dIndex": 165,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Suit yourself...\"",
+                "subSpeech": "",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 165,
+                "dIndex": 166,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "Expression",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 4,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 8.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    60
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem snaps his fingers...",
+                "subSpeech": "Longer",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 162,
+                "dIndex": 167,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 3.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisLengthIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    162
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem frowns...",
+                "subSpeech": "Shorter",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 162,
+                "dIndex": 168,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 3.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisLengthDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    162
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem raises his eyebrows...",
+                "subSpeech": "Thicker",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 162,
+                "dIndex": 169,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 3.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisGirthIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    162
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem looks confused.... (NYI)",
+                "subSpeech": "Thinner",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 162,
+                "dIndex": 170,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 1,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Sweat",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    162
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "\"Maybe thats enough for now...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 162,
+                "dIndex": 171,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    152
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem chants \"Ke ulu nei wikiwiki\"",
+                "subSpeech": "More grow-er",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 163,
+                "dIndex": 172,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisShowerDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    163
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem chants \"Hōʻike i ke ao...\"",
+                "subSpeech": "More show-er",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 163,
+                "dIndex": 173,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisShowerIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    163
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I think I'm good for now...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 163,
+                "dIndex": 174,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    152
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem whispers \"Thicker...\"",
+                "subSpeech": "More fat",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 153,
+                "dIndex": 175,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "BodyFatIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    153
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem whispers \"Thinner...\" (NYI)",
+                "subSpeech": "Less fat",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 153,
+                "dIndex": 176,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    153
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "\"Thats enough chubomancy for one day...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 153,
+                "dIndex": 177,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    60
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Thats probably enough dabbling ...for now...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 60,
+                "dIndex": 178,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "Expression",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 1,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 8.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    43
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Hows this for my body @playername ?\"",
+                "subSpeech": "Atems muscle/Height",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 82,
+                "dIndex": 179,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem merely grins...",
+                "subSpeech": "Atems cock",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 82,
+                "dIndex": 180,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I should give that a rest...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 82,
+                "dIndex": 181,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    31
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem chuckles as he waves his hand...(NYI)",
+                "subSpeech": "Bigger balls",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 164,
+                "dIndex": 182,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 1,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Sweat",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    164
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "Atem murmurs a magic word you dont quite catch.",
+                "subSpeech": "Smaller balls",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 164,
+                "dIndex": 183,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "BallSizeDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    164
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Hmm looks just right to me @playername ...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 164,
+                "dIndex": 184,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    152
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Lets give my magic a rest shall we?\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 31,
+                "dIndex": 185,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    29
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem stretches slightly and grows...",
+                "subSpeech": "Taller",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 179,
+                "dIndex": 186,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "HeightIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    179
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "You smirk as Atems height diminishes....",
+                "subSpeech": "Shorter",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 179,
+                "dIndex": 187,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "HeightDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    179
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem grunts as his body fills in more...",
+                "subSpeech": "Beefy",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 179,
+                "dIndex": 188,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "MuscleIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    179
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "You hear a subby moan eascape Atems lips...",
+                "subSpeech": "Wimpy",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 179,
+                "dIndex": 189,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "MuscleDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    179
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"This works for me @playername ...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 179,
+                "dIndex": 190,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    31
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Precum drips from the longer cock...",
+                "subSpeech": "Longer",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 191,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisLengthIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    180
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "Atem seems a lil more submissive...",
+                "subSpeech": "Shorter",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 192,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisLengthDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    180
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "The cock pulses in front of you...",
+                "subSpeech": "Thicker",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 193,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "PenisGirthIncrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    180
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "The meat deflates like a balloon...(NYI)",
+                "subSpeech": "Thinner",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 194,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 1,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Sweat",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    180
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "Atems sack grows heavier...(NYI)",
+                "subSpeech": "Balls bigger",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 195,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 1,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Sweat",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    180
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": true
+            },
+            {
+                "speech": "Atems balls start to dwindle...",
+                "subSpeech": "Balls smaller",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 196,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 5.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "BallSizeDecrease",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    180
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "*Atem chuckles* \"Happy now @playername?\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 180,
+                "dIndex": 197,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    31
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Have fun catching some sun...and bring me back a coconut!\"",
+                "subSpeech": "Beach",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 40,
+                "dIndex": 198,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "travel Sea1",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Sounds like a nice place to relax with some orcs...\"",
+                "subSpeech": "Bath house",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 40,
+                "dIndex": 199,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "travel BathHouse",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Tell tall dark and spooky I said 'hi'...\"",
+                "subSpeech": "Inn",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 40,
+                "dIndex": 200,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "travel Inn",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Oh! Those? I know where they are....hmmm...just a sec....\"",
+                "subSpeech": "Scruffy Peaches",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 39,
+                "dIndex": 201,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "TeleportToCoordinate",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 1,
+                        "int3": 0,
+                        "float1": 642.0,
+                        "float2": 491.0,
+                        "float3": 580.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Heh bring me back a few...\"",
+                "subSpeech": "Aubergine",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 39,
+                "dIndex": 202,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "TeleportToCoordinate",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 1,
+                        "int3": 0,
+                        "float1": -22.5,
+                        "float2": 406.0,
+                        "float3": 500.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"DEFINITELY bring some back for me...\"",
+                "subSpeech": "Moon Aubergine",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 39,
+                "dIndex": 203,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "TeleportToCoordinate",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 1,
+                        "int3": 0,
+                        "float1": -670.0,
+                        "float2": 490.0,
+                        "float3": 642.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Oh those arent far from me...\"",
+                "subSpeech": "Yellow/Red peppers",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 39,
+                "dIndex": 204,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "TeleportToCoordinate",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 1,
+                        "int3": 0,
+                        "float1": -653.0,
+                        "float2": 517.0,
+                        "float3": -267.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Lets spice things up a bit...\" ",
+                "subSpeech": "Muscle swap",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 1,
+                "expressionIndex": 0,
+                "parentIndex": 131,
+                "dIndex": 205,
+                "startFromThis": false,
+                "startActions": [
+                    {
+                        "functionName": "Expression",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 1,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 8.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Kinda content right now...not looking to swap with ya...Sorry Atem...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 131,
+                "dIndex": 206,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    129
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Heh alright alright...we can go faster this time...\"",
+                "subSpeech": "Fast",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 141,
+                "dIndex": 207,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 50,
+                        "float1": 90.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Goblinize_SwapHeight",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"I want to savor this....\"",
+                "subSpeech": "Slow",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 141,
+                "dIndex": 208,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 90.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Goblinize_SwapMuscle",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"On second though....my height seems perfect for me....\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 141,
+                "dIndex": 209,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [
+                    129
+                ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Heh someone is anxious...\"",
+                "subSpeech": "Fast",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 205,
+                "dIndex": 210,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 50,
+                        "float1": 90.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Goblinize_SwapMuscle",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Ahhhhh....just the way I like it....\"",
+                "subSpeech": "Slow",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 205,
+                "dIndex": 211,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [
+                    {
+                        "functionName": "CustomBuff",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 5,
+                        "float1": 90.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "Goblinize_SwapMuscle",
+                        "string2": "",
+                        "string3": ""
+                    }
+                ],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false
+            },
+            {
+                "speech": "\"Perhaps another time...\"",
+                "subSpeech": "Back",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "parentIndex": 205,
+                "dIndex": 212,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
                 "goToIndex": [
                     129
                 ],
