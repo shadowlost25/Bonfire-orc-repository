@@ -1,6 +1,6 @@
 {
     "author": "Buoysel",
-    "description": "An NPC mod based on Muk100's (now Remerting) OC: Xerxes the Incubus.\n\nThis is a story-based mod mainly focused on growth through sex, but also includes brief body possesion, hypnosis, fusion, and corruption.\n\nPlease note, this quest is somewhat lengthy, with several points of conversation. Do not leave the main world, or the quest will reset to the beginning. If you just want to have sex with Xerxes, use the Lite version.\n\nXerxes can be found near the Bath House Portal.\n\n\n\n\nChange log:\n\nv1.01\n-Doubled growth rate for bottom position\n-Added growth for the top position\n-Added a sweat buff during sex scenes\n\nv1.0\n-Initial release",
+    "description": "An NPC mod based on Muk100's (now Remerting) OC: Xerxes the Incubus.\n\nThis is a story-based mod mainly focused on growth through sex, but also includes brief body possesion, hypnosis, fusion, and corruption.\n\nPlease note, this quest is somewhat lengthy, with several points of conversation. Do not leave the main world, or the quest will reset to the beginning. If you just want to have sex with Xerxes, use the Lite version.\n\nXerxes can be found near the Bath House Portal.\n\n\n\n\nChange log:\n\nv1.02\n-Ensures console control returns to the player during the curse removal scene.\n\nv1.01\n-Doubled growth rate for bottom position\n-Added growth for the top position\n-Added a sweat buff during sex scenes\n\nv1.0\n-Initial release",
     "character": {
         "v": "0.21.2",
         "hornStyle": 0,
@@ -2569,6 +2569,21 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
+                        "string1": "targetclear",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
                         "string1": "curse",
                         "string2": "",
                         "string3": ""
@@ -4462,6 +4477,21 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
+                        "string1": "targetclear",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
                         "string1": "purify",
                         "string2": "",
                         "string3": ""
@@ -4523,6 +4553,21 @@
                         "float3": 0.0,
                         "float4": 0.0,
                         "string1": "natty",
+                        "string2": "",
+                        "string3": ""
+                    },
+                    {
+                        "functionName": "CustomCall",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "targetclear",
                         "string2": "",
                         "string3": ""
                     }
