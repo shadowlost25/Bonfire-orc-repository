@@ -1,8 +1,8 @@
 {
     "author": "HoggyWoggy",
-    "description": "Biography:\nTork is a huge, chunky, green orc with a big heart (and belly). Despite his brutish appearance, he's actually pretty mellow and doesn't mind cracking a joke or two. On the dirty side, he's quite versatile and likes it VERY rough.\n\nHe's been exploring around the realm and logging all kinds of information for future reference. He'll be glad to aid anyone who needs to know something. He may even know a few secrets or two that could come in handy...\n\n\n\nNPC Guide:\nThis NPC's main function is to serve as an in-game guide with information for various\r things like basic controls to even more technical info, and he can even let you follow him to something you’re trying to find. Here’s the basic rundown of what he offers on his\r “main menu”​.\r\n\nMorph: Offers the player various transformations, fusions, and cleansing.\r\n\nInfo: Gives players tips on and where are consumables, orcs, portals, clothing, etc., or he can take you directly to what you’re looking for.\r\n\nSecrets: Reveals “secret” info like (additional) controls, special items, the command console, modding, etc.\r\n\n“Relax”: I think you know what this is… *wink wink* ;)\r\n\nNothing: Exit the menu and end interaction with Tork.\n\nIf you want to find him, starting from the “Start” Circle (your orc’s Stone Circle) and facing the Rune Stone, go slightly to the left up a hill cluttered with some rock near the top of the incline. Keep going and Gork’s Stone Circle (assuming you’re using his default coordinates) should be in view.\n\nRemember, he’s a big, green, bulky orc with a gut. His attire is a Pirate Bandana, Leather Gloves (Set1), Leather Harness (Set1), Leather Boots (Set1), Baggy Pants, Spiked Bracers, and two Gold Nipple Rings, and a Gold Nose Ring.\r\n\n\n\n***Author Note***: \nThis NPC's main function is to serve as an in-game guide with information for various things like basic controls to even more technical info.\n\nHowever, this NPC is very new and missing some strings here and there as he was made within 3 days with little breaks in between (300+ pieces of dialogue...and STILL going up as I need to put in other strings). \n\nThe strings that are missing are a 3 food consumables locations (King Aubergine, Lime, and Grapefruit). Tork's jokey finishers and/or player reactions by expressing thanks also need to be added as there are MANY dialogue strings are missing these, and of course, I still to make sure there aren't [too many] grammar, info, lore errors.\n\n***Feedback would be really appreciated!***",
+    "description": "Biography:\nTork is a huge, chunky, green orc with a big heart (and belly). Despite his brutish appearance, he's actually pretty mellow and doesn't mind cracking a joke or two. On the dirty side, he's quite versatile and likes it VERY rough.\n\nHe's been exploring around the realm and logging all kinds of information for future reference. He'll be glad to aid anyone who needs to know something. He may even know a few secrets or two that could come in handy...\n\n\n\nNPC Guide:\nThis NPC's main function is to serve as an in-game guide with information for various\r things like basic controls to even more technical info, and he can even let you follow him to something you’re trying to find. Here’s the basic rundown of what he offers on his\r “main menu”​.\r\n\nMorph: Offers the player various transformations, fusions, and cleansing.\r\n\nInfo: Gives players tips on and where are consumables, orcs, portals, clothing, etc., or he can take you directly to what you’re looking for.\r\n\nSecrets: Reveals “secret” info like (additional) controls, special items, the command console, modding, etc.\r\n\n“Relax”: I think you know what this is… wink wink ;)\r\n\nNothing: Exit the menu and end interaction with Tork.\n\nIf you want to find him, starting from the “Start” Circle (your orc’s Stone Circle) and facing the Rune Stone, go slightly to the left up a hill cluttered with some rock near the top of the incline. Keep going and Gork’s Stone Circle (assuming you’re using his default coordinates) should be in view.\n\nRemember, he’s a big, green, bulky orc with a gut. His attire is a Pirate Bandana, Leather Gloves (Set1), Leather Harness (Set1), Leather Boots (Set1), Baggy Pants, Spiked Bracers, and two Gold Nipple Rings, and a Gold Nose Ring.\r\n\n\n\nAuthor Note: \nThis NPC's main function is to serve as an in-game guide with information for various things like basic controls to even more technical info.\n\nHowever, this NPC is very new and missing some strings here and there as he was made within 3 days with little breaks in between (300+ pieces of dialogue...and STILL going up as I need to put in other strings). \n\nThe strings that are missing are a 3 food consumables locations (King Aubergine, Lime, and Grapefruit). Tork's jokey finishers and/or player reactions by expressing thanks also need to be added as there are MANY dialogue strings are missing these, and of course, I still to make sure there aren't [too many] grammar, info, lore errors.\n\n***Feedback would be really appreciated!***",
     "character": {
-        "v": "0.20.1",
+        "v": "0.21.2",
         "hornStyle": 0,
         "hairStyle": 2,
         "coatStyle": 0,
@@ -75,9 +75,9 @@
         "facemod_nose_southern": 0.0,
         "facemod_nose_squash": -23.00724983215332,
         "bondOrcP": 0,
-        "bondOrc1": 0,
-        "bondOrc2": 0,
-        "bondOrc3": 0,
+        "bondOrc1": 4,
+        "bondOrc2": 4,
+        "bondOrc3": 1,
         "bondOrc4": 0,
         "bondOrc5": 0,
         "bondOrc6": 0,
@@ -94,7 +94,18 @@
                 "customString2": ""
             },
             {
-                "itemID": 39,
+                "itemID": 21,
+                "itemType": 1,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 3,
+                "customInt2": 3,
+                "customString1": "",
+                "customString2": ""
+            },
+            {
+                "itemID": 75,
                 "itemType": 0,
                 "unique": false,
                 "uniqueID": 0,
@@ -105,7 +116,18 @@
                 "customString2": ""
             },
             {
-                "itemID": 75,
+                "itemID": 8,
+                "itemType": 2,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "",
+                "customString2": ""
+            },
+            {
+                "itemID": 39,
                 "itemType": 0,
                 "unique": false,
                 "uniqueID": 0,
@@ -127,17 +149,6 @@
                 "customString2": ""
             },
             {
-                "itemID": 6,
-                "itemType": 0,
-                "unique": false,
-                "uniqueID": 0,
-                "worn": true,
-                "customInt1": 0,
-                "customInt2": 0,
-                "customString1": "",
-                "customString2": ""
-            },
-            {
                 "itemID": 17,
                 "itemType": 0,
                 "unique": false,
@@ -149,7 +160,29 @@
                 "customString2": ""
             },
             {
+                "itemID": 6,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": true,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "",
+                "customString2": ""
+            },
+            {
                 "itemID": 74,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": true,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "",
+                "customString2": ""
+            },
+            {
+                "itemID": 67,
                 "itemType": 0,
                 "unique": false,
                 "uniqueID": 0,
@@ -193,7 +226,7 @@
                 "customString2": ""
             },
             {
-                "itemID": 67,
+                "itemID": 46,
                 "itemType": 0,
                 "unique": false,
                 "uniqueID": 0,
@@ -357,7 +390,7 @@
                 "grayed": false
             },
             {
-                "speech": "\"Wow...that's amazing...\"",
+                "speech": "\"Whoa...\"",
                 "subSpeech": "",
                 "textType": 0,
                 "starring": 1,
@@ -393,7 +426,7 @@
                 "grayed": false
             },
             {
-                "speech": "*blushes* \"Oh! Uh, well, thank you...\"\n\n*clears throat* \"Anyways, I don't mind helping you with anything you need: information, secrets, transformation spells, and 'relaxing'.\" *winks*",
+                "speech": "\"This place has a lot going for it, but I don't mind helping you with anything you need: information, secrets, transformation spells, and even some 'relaxing'.\" *winks*",
                 "subSpeech": "",
                 "textType": 0,
                 "starring": 0,
@@ -1889,7 +1922,7 @@
                 "grayed": false
             },
             {
-                "speech": "\"Who doesn't want to an orc? ...or even more of an orc, hehe...\"\n\n\"Alright...and DONE! I bet you gonna make some other orcs jealous, hehe.\"",
+                "speech": "\"Who doesn't want to an orc? ...or even more of an orc, hehe...\"\n\n\"Alright...and DONE! I bet you gonna make some other orcs pretty jealous, hehe.\"",
                 "subSpeech": "",
                 "textType": 0,
                 "starring": 0,
