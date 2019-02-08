@@ -1,0 +1,90 @@
+{
+    "dialogues": [
+        {
+            "speech": "Copies a nearby NPC's apperance",
+            "subSpeech": "Choice name",
+            "textType": 2,
+            "starring": 1,
+            "cameraMode": 0,
+            "dialogueType": 0,
+            "expressionIndex": 0,
+            "newParentIndex": 0,
+            "parentIndex": 0,
+            "dIndex": 0,
+            "startFromThis": false,
+            "startActions": [
+                {
+                    "functionName": "CustomCall",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 0,
+                    "int2": 0,
+                    "int3": 0,
+                    "float1": 0.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "batch target @playerinterest;buffperma SpellImmunity;targetclear",
+                    "string2": "",
+                    "string3": "",
+                    "string4": ""
+                },
+                {
+                    "functionName": "CustomCall",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 0,
+                    "int2": 0,
+                    "int3": 0,
+                    "float1": 0.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "swap @playername,@playerinterest,3,100",
+                    "string2": "",
+                    "string3": "",
+                    "string4": ""
+                },
+                {
+                    "functionName": "CustomCall",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 0,
+                    "int2": 0,
+                    "int3": 0,
+                    "float1": 0.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "quickgrow",
+                    "string2": "",
+                    "string3": "",
+                    "string4": ""
+                },
+                {
+                    "functionName": "RemoveAllBuffs",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 1,
+                    "int2": 0,
+                    "int3": 0,
+                    "float1": 0.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "",
+                    "string2": "",
+                    "string3": "",
+                    "string4": ""
+                }
+            ],
+            "endActions": [],
+            "conditions": [],
+            "goToIndex": [],
+            "retriggerAnimation": false,
+            "noUserSkip": false,
+            "keepAnimation": false,
+            "grayed": false
+        }
+    ]
+}
