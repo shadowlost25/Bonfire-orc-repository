@@ -1,0 +1,80 @@
+{
+    "dialogues": [
+        {
+            "speech": "Grants an Aura that makes nearby orcs fatter",
+            "subSpeech": "Choice name",
+            "textType": 2,
+            "starring": 1,
+            "cameraMode": 0,
+            "dialogueType": 0,
+            "expressionIndex": 0,
+            "newParentIndex": 0,
+            "parentIndex": 0,
+            "dIndex": 0,
+            "startFromThis": false,
+            "startActions": [
+                {
+                    "functionName": "CustomBuff",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 1,
+                    "int2": 0,
+                    "int3": 5,
+                    "float1": 1.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "BodyFatIncrease",
+                    "string2": "",
+                    "string3": "",
+                    "string4": ""
+                }
+            ],
+            "endActions": [],
+            "conditions": [],
+            "goToIndex": [],
+            "retriggerAnimation": false,
+            "noUserSkip": false,
+            "keepAnimation": false,
+            "grayed": false
+        },
+        {
+            "speech": "This is a new dialogue line, derived from the previous.",
+            "subSpeech": "",
+            "textType": 2,
+            "starring": 1,
+            "cameraMode": 0,
+            "dialogueType": 0,
+            "expressionIndex": 0,
+            "newParentIndex": 0,
+            "parentIndex": 1,
+            "dIndex": 2,
+            "startFromThis": false,
+            "startActions": [
+                {
+                    "functionName": "CustomCall",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 0,
+                    "int2": 0,
+                    "int3": 0,
+                    "float1": 0.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "batch targetclear;macroexec ChunkyAura",
+                    "string2": "",
+                    "string3": "",
+                    "string4": ""
+                }
+            ],
+            "endActions": [],
+            "conditions": [],
+            "goToIndex": [],
+            "retriggerAnimation": false,
+            "noUserSkip": false,
+            "keepAnimation": false,
+            "grayed": false
+        }
+    ]
+}
