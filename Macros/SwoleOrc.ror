@@ -1,0 +1,44 @@
+{
+    "dialogues": [
+        {
+            "speech": "This is a dialogue line",
+            "subSpeech": "Choice name",
+            "textType": 2,
+            "starring": 1,
+            "cameraMode": 0,
+            "dialogueType": 0,
+            "expressionIndex": 0,
+            "newParentIndex": 0,
+            "parentIndex": 0,
+            "dIndex": 0,
+            "startFromThis": false,
+            "startActions": [
+                {
+                    "functionName": "OrcLuaScript",
+                    "hardcodedFunction": 0,
+                    "sendCallbackTo": 8,
+                    "int1": 0,
+                    "int2": 0,
+                    "int3": 0,
+                    "float1": 0.0,
+                    "float2": 0.0,
+                    "float3": 0.0,
+                    "float4": 0.0,
+                    "string1": "orc.consolecommand('cbt arml,0.88')\r\norc.consolecommand('cbt armr,0.88')\r\norc.consolecommand('cbt shoulderr,1.2')\r\norc.consolecommand('cbt shoulderl,1.2')\r\norc.consolecommand('cbt bicepl,1.25')\r\norc.consolecommand('cbt bicepr,1.25')\r\norc.consolecommand('cbt clavr,1.05,true')\r\norc.consolecommand('cbt clavl,1.05,true')\r\norc.consolecommand('cbt spine1,1.15,true')\r\norc.consolecommand('cbt buttr,1.15,true')\r\norc.consolecommand('cbt buttl,1.15,true')\r\norc.consolecommand('cbt gen,1.5')\r\norc.consolecommand('cbt pelvis,1.1,true')\r\norc.consolecommand('cbt spine3,1.25')\r\norc.consolecommand('cbt neck,1.35,true')\norc.consolecommand('cbt neck1,1.35,true')\norc.consolecommand('cbt spine2,1.2,true')\norc.consolecommand('buff HyperPenisLength,560')\norc.consolecommand('cbt buttr,1.15')\norc.consolecommand('cbt buttl,1.15')\norc.consolecommand('cbt thighl,1.15,true')\norc.consolecommand('cbt thighr,1.15,true')\norc.consolecommand('cbt calfl,0.98')\norc.consolecommand('cbt calfr,0.98')",
+                    "string2": "GrowScales",
+                    "string3": "",
+                    "string4": ""
+                }
+            ],
+            "endActions": [],
+            "conditions": [],
+            "goToIndex": [],
+            "retriggerAnimation": false,
+            "noUserSkip": false,
+            "keepAnimation": false,
+            "grayed": false,
+            "editorX": 0.0,
+            "editorY": 0.0
+        }
+    ]
+}
