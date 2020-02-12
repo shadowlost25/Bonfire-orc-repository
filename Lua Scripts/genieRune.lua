@@ -1,0 +1,1 @@
+orc.consolecommand("batch target @self;overlay HeadWear_GenieRubee1;")
