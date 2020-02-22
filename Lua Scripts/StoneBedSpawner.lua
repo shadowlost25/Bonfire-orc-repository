@@ -1,5 +1,5 @@
 --OrcBed name
-local stonebed = "OrcNameBed"
+local stonebed = orc.orcname .. "bed"
 
 --Charcter coords
 local charCoords = "0," ..  --X
