@@ -11,7 +11,7 @@
         "customOverlay1": 1,
         "orcName": "Cyan King",
         "age": 0.0,
-        "penisSize": 0.0,
+        "penisSize": 0.24275362491607667,
         "penisShower": 0.0,
         "penisGirth": 1.9999998807907105,
         "ballSize": 0.9057971239089966,
@@ -34,7 +34,7 @@
         "penilePenetrationPreference": 1.0,
         "analPenetrationPreference": 1.0,
         "beardStubble": 0.0,
-        "overalSize": 1.5,
+        "overalSize": 0.7862318754196167,
         "footSize": 0.1304347813129425,
         "meatyHands": 1.0,
         "extraButt": 0.20652173459529878,
@@ -101,18 +101,6 @@
                 "customFloat1": 0.0
             },
             {
-                "itemID": 77,
-                "itemType": 1,
-                "unique": false,
-                "uniqueID": 0,
-                "worn": false,
-                "customInt1": 0,
-                "customInt2": 0,
-                "customString1": "{\"timeUsed\":16208.2080078125,\"distanceTraveled\":12417.560546875,\"timeFapping\":189.80810546875,\"timeSexing\":246.23353576660157,\"timeOfDay\":2.461575508117676}",
-                "customString2": "",
-                "customFloat1": 0.0
-            },
-            {
                 "itemID": 71,
                 "itemType": 1,
                 "unique": false,
@@ -121,6 +109,18 @@
                 "customInt1": 0,
                 "customInt2": 0,
                 "customString1": "",
+                "customString2": "",
+                "customFloat1": 0.0
+            },
+            {
+                "itemID": 77,
+                "itemType": 1,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "{\"timeUsed\":16285.98828125,\"distanceTraveled\":12417.560546875,\"timeFapping\":189.80810546875,\"timeSexing\":246.23353576660157,\"timeOfDay\":2.8305251598358156}",
                 "customString2": "",
                 "customFloat1": 0.0
             },
@@ -189,6 +189,30 @@
                 "itemType": 1,
                 "unique": false,
                 "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "",
+                "customString2": "",
+                "customFloat1": 0.0
+            },
+            {
+                "itemID": 5,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "{\"attributes\":[{\"attributeType\":0,\"aData\":\"\",\"float1\":0.5661764144897461,\"float2\":0.5661764144897461,\"float3\":0.5661764144897461,\"float4\":0.32352933287620547,\"float5\":0.21352934837341309,\"float6\":0.0,\"float7\":0.0,\"float8\":0.0,\"float9\":0.0,\"float123a\":1.0,\"float456a\":1.0,\"float789a\":1.0}]}",
+                "customString2": "",
+                "customFloat1": 0.0
+            },
+            {
+                "itemID": 4,
+                "itemType": 0,
+                "unique": true,
+                "uniqueID": 1,
                 "worn": false,
                 "customInt1": 0,
                 "customInt2": 0,
@@ -293,6 +317,30 @@
                 "customFloat1": 0.0
             },
             {
+                "itemID": 18,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "{\"attributes\":[{\"attributeType\":0,\"aData\":\"\",\"float1\":1.0,\"float2\":1.0,\"float3\":1.0,\"float4\":0.36796873807907107,\"float5\":0.1488611400127411,\"float6\":0.014747466892004013,\"float7\":1.0,\"float8\":0.44999992847442629,\"float9\":0.0,\"float123a\":1.0,\"float456a\":1.0,\"float789a\":0.8529999852180481}]}",
+                "customString2": "",
+                "customFloat1": 0.0
+            },
+            {
+                "itemID": 74,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "{\"attributes\":[{\"attributeType\":0,\"aData\":\"\",\"float1\":1.0,\"float2\":1.0,\"float3\":1.0,\"float4\":1.0,\"float5\":1.0,\"float6\":1.0,\"float7\":1.0,\"float8\":0.6374999284744263,\"float9\":0.0,\"float123a\":1.0,\"float456a\":1.0,\"float789a\":0.8529999852180481}]}",
+                "customString2": "",
+                "customFloat1": 0.0
+            },
+            {
                 "itemID": 119,
                 "itemType": 1,
                 "unique": false,
@@ -302,6 +350,30 @@
                 "customInt2": 0,
                 "customString1": "Bath House",
                 "customString2": "Outback1",
+                "customFloat1": 0.0
+            },
+            {
+                "itemID": 107,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "{\"attributes\":[{\"attributeType\":0,\"aData\":\"\",\"float1\":1.0,\"float2\":1.0,\"float3\":1.0,\"float4\":0.44852936267852785,\"float5\":0.2825826108455658,\"float6\":0.13192036747932435,\"float7\":0.7573529481887817,\"float8\":0.7573529481887817,\"float9\":0.7573529481887817,\"float123a\":1.0,\"float456a\":1.0,\"float789a\":0.8529999852180481}]}",
+                "customString2": "",
+                "customFloat1": 0.0
+            },
+            {
+                "itemID": 54,
+                "itemType": 0,
+                "unique": false,
+                "uniqueID": 0,
+                "worn": false,
+                "customInt1": 0,
+                "customInt2": 0,
+                "customString1": "",
+                "customString2": "",
                 "customFloat1": 0.0
             },
             {
@@ -773,12 +845,12 @@
                 "editorY": 0.0
             },
             {
-                "speech": "of course",
+                "speech": "let me think",
                 "subSpeech": "",
                 "textType": 0,
                 "starring": 1,
                 "cameraMode": 0,
-                "dialogueType": 0,
+                "dialogueType": 1,
                 "expressionIndex": 0,
                 "newParentIndex": 0,
                 "parentIndex": 7,
@@ -796,8 +868,8 @@
                 "editorY": 0.0
             },
             {
-                "speech": "if its to me stay big like you, of course i will do !!",
-                "subSpeech": "",
+                "speech": "if its to me stay big like you , of cours i will!",
+                "subSpeech": "Yes",
                 "textType": 0,
                 "starring": 1,
                 "cameraMode": 0,
@@ -1098,6 +1170,22 @@
                         "string2": "",
                         "string3": "",
                         "string4": ""
+                    },
+                    {
+                        "functionName": "SetFlag",
+                        "hardcodedFunction": 0,
+                        "sendCallbackTo": 8,
+                        "int1": 0,
+                        "int2": 0,
+                        "int3": 0,
+                        "float1": 0.0,
+                        "float2": 0.0,
+                        "float3": 0.0,
+                        "float4": 0.0,
+                        "string1": "CKFused",
+                        "string2": "1",
+                        "string3": "",
+                        "string4": "@playername"
                     }
                 ],
                 "endActions": [],
@@ -1111,7 +1199,7 @@
                 "editorY": 0.0
             },
             {
-                "speech": "Fusing now",
+                "speech": "give item",
                 "subSpeech": "",
                 "textType": 0,
                 "starring": 0,
@@ -1190,7 +1278,7 @@
                         "float2": 0.0,
                         "float3": 0.0,
                         "float4": 0.0,
-                        "string1": "batch curseorc;orccallback ghosteffecton",
+                        "string1": "batch curse;orccallback ghosteffecton",
                         "string2": "",
                         "string3": "",
                         "string4": ""
@@ -1367,6 +1455,52 @@
                 "goToIndex": [
                     18
                 ],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false,
+                "editorX": 0.0,
+                "editorY": 0.0
+            },
+            {
+                "speech": "Tsting",
+                "subSpeech": "Not now",
+                "textType": 0,
+                "starring": 0,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "newParentIndex": 0,
+                "parentIndex": 25,
+                "dIndex": 26,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
+                "retriggerAnimation": false,
+                "noUserSkip": false,
+                "keepAnimation": false,
+                "grayed": false,
+                "editorX": 0.0,
+                "editorY": 0.0
+            },
+            {
+                "speech": "no thanks",
+                "subSpeech": "Not now",
+                "textType": 0,
+                "starring": 1,
+                "cameraMode": 0,
+                "dialogueType": 0,
+                "expressionIndex": 0,
+                "newParentIndex": 0,
+                "parentIndex": 8,
+                "dIndex": 27,
+                "startFromThis": false,
+                "startActions": [],
+                "endActions": [],
+                "conditions": [],
+                "goToIndex": [],
                 "retriggerAnimation": false,
                 "noUserSkip": false,
                 "keepAnimation": false,
