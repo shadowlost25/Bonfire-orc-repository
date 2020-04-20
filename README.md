@@ -14,4 +14,4 @@ Storage of Orcs and NPCs for Bonfire game currently in development by Hogswild. 
 2. Click "Refresh" and the menu will fetch a list of available NPCs
 3. Scroll to the NPC you want to download, and click "Summon"
 4. Click the checkbox to make an **X** mark, and click Done.
-5. The NPC will appear in the Outback
+5. The NPC will appear in their respective scene, not necessarily the Outback
