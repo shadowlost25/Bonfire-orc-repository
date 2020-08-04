@@ -175,9 +175,9 @@ function postConvertCorrection()
         orc.jawsize = lastTarget.jawsize
         orc.lipgirth = lastTarget.lipgirth
         orc.coatdensity = lastTarget.coatdensity
-    end
 
-    applyRetained()
+        applyRetained()
+    end
 
     orc.consolecommand("oluaria Ditto,postConvertCorrection")
         
