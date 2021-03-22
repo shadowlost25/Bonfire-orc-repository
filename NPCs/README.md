@@ -4,7 +4,7 @@
 
  **Kink based** orcs are primarily for orcs whos sole purpose is the play out a scene
  
- **Mod Tutorial Orcs** orcs that demonstrate specific features when creating mods
+ **Mod Tutorial** orcs demonstrate specific features when creating mods
 
  **Story based** orcs are for orcs who will have more story driven elements to them
 
