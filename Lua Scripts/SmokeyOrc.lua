@@ -1,3 +1,9 @@
+--[[ SmokeyOrc -- by Buoysel
+
+    Applies the galaxyParticles "Smoke" effect every 5 minutes
+
+]]
+
 local timer = 0         -- Tracks elapsed time
 local waitTime = 300    -- 5 minutes
 

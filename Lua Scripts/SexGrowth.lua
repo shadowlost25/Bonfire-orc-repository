@@ -1,3 +1,9 @@
+--[[ Sex Growth -- by Buoysel
+
+    Steadily grows you during sex
+
+]]
+
 
 local GROWTH_TIME = orc.game.deltatime
 local TOP_RATE = 0.005

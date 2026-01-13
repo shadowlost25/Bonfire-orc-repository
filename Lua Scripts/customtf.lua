@@ -1,3 +1,7 @@
+--[[ customtf -- by Hogswild
+
+]]
+
 spin = 0.0
 soundsa = false
 soundsb = false

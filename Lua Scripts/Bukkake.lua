@@ -1,3 +1,7 @@
+--[[ Bukkake -- by Buoysel
+
+]]
+
 function bukkake()
     
     --The user will start a floor fap animation when someone faps near them.

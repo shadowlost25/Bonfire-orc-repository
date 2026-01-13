@@ -1,6 +1,8 @@
 
 
---[[ Ditto: Makes you transform into a nearby orc for some selfcest fun!
+--[[ Ditto -- by Buoysel
+
+    Makes you transform into a nearby orc for some selfcest fun!
 
     If used online, you must first either be in PVP mode or have mutual
     consent with your target for this script to work.
